@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+}
+
+* {
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.example input[type="text"] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+.example input[type="text"]:focus {
+  outline: none;
+}
+
+.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #83b2db;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+.example button:hover {
+  background: #4189c7;
+}
+
+.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}

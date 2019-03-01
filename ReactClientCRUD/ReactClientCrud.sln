@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactClientCrud", "ReactCrudCShapp\ReactClientCrud.csproj", "{D6B45C18-8B81-4BC8-8B91-E9630977F880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B45C18-8B81-4BC8-8B91-E9630977F880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B45C18-8B81-4BC8-8B91-E9630977F880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B45C18-8B81-4BC8-8B91-E9630977F880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B45C18-8B81-4BC8-8B91-E9630977F880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {988B426E-B811-4B29-AA39-F1CFF6E5DCCA}
+	EndGlobalSection
+EndGlobal
